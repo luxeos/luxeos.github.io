@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The LuxeOS Project</title>
+    <link>/</link>
+    <description>Recent content on The LuxeOS Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Downloads</title>
+      <link>/downloads/</link>
+      <pubDate>Thu, 14 Sep 2023 21:30:11 +0200</pubDate>
+      
+      <guid>/downloads/</guid>
+      <description>You can download the latest pre-built ISO here.
+Current release: NONE</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 14 Sep 2023 21:25:26 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>LuxeOS is a minimal and lightweight Operating System made for i386 and x86_64 architectures.
+Installation git clone https://github.com/luxeos/luxe-bootstrap ./bootstrap.sh Now you can run the produced ISO in a UEFI-enabled x86/x86_64 environment.
+System Requirements System requirements aren&amp;rsquo;t specified as of yet.</description>
+    </item>
+    
+  </channel>
+</rss>
